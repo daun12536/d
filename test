@@ -1,7 +1,2 @@
-print('hello from url')
 printidentity()
-warn("good morning")
-task.wait()
-warn("trying to httpget example.com..")
-print(game:HttpGet("https://example.com"))
-warn("yay!")
+print"hello!"
